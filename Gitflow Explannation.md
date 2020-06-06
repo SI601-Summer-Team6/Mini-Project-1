@@ -6,3 +6,5 @@
 1. **Release branches:** this branch is the code being deployed onto a suitable version, tested, and any problems are fixed directly in the release branch. The cycle could be **deploy -> test -> fix -> redeploy -> retest**. 
 1. **Develop branch:** is the branch just for development which created off the master branch. 
 1. **Feature branch：** is the branch for doing the current development. The branch only merge back to Develop branch.
+
+![example image for the git flow](https://datasift.github.io/gitflow/GitFlowMasterBranch.png)
