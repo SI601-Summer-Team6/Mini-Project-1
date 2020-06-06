@@ -67,5 +67,5 @@ Merge pull request #2 from SI601-Summer-Team6/Terms …
 **Cs586 committed**
 
 ## Table of contents
-*[GitFlow Explanation](https://github.com/SI601-Summer-Team6/Mini-Project-1/blob/master/Gitflow%20Explannation.md)    
-*[Terminologies Explanation](https://github.com/SI601-Summer-Team6/Mini-Project-1/blob/master/Terms.md)
+* [GitFlow Explanation](https://github.com/SI601-Summer-Team6/Mini-Project-1/blob/master/Gitflow%20Explannation.md)    
+* [Terminologies Explanation](https://github.com/SI601-Summer-Team6/Mini-Project-1/blob/master/Terms.md)
