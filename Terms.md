@@ -7,7 +7,7 @@
 * **Merge:** used to conbine the perivous version coding with the other one.
 * **Checkout:** could be like a selectiing command. To inform the machine which commit I would like to work on.
 * **Push:** uploading the commits on the local to the remote.
-* **Pull:** according to the git tutiral git pull = git fetch + git merge. Which is not only downloading the latest version on the remote                but also merge that version with the local version.
+* **Pull:** according to the git tutorial "git pull = git fetch + git merge." Which is not only downloading the latest version on the                    remote but also merge that version with the local version.
 * **Remote Add:** 
 * **Remote Remove:** 
 * **Remote Show:**
